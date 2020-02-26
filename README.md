@@ -1,5 +1,5 @@
 <h1>
-This is the Lab 1 for the class of Web Development
+This is the Lab 2 for the class of Web Development
 
 </h1>
 
